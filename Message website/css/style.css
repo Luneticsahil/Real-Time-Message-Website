@@ -1,0 +1,120 @@
+.vh-100 {
+	min-height: 100vh;
+	background-color: #92c8ce;
+}
+.w-400 {
+	width: 700px;
+}
+.fs-xs {
+	font-size: 1rem;
+}
+.w-10 {
+	width: 10%;
+}
+a {
+	text-decoration: none;
+}
+.fs-big {
+	font-size: 5rem !important;
+}
+.online {
+	width: 10px;
+	height: 10px;
+	background: #6a8fee;
+	border-radius: 50%;
+}
+.w-15 {
+	width: 15%;
+}
+.fs-sm {
+	font-size: 1.4rem;
+}
+small {
+	color: #070707;
+	font-size: 0.7rem;
+	text-align: right;
+}
+.chat-box {
+	overflow-y: auto;
+	overflow-x: hidden;
+	max-height: 50vh;
+}
+.rtext {
+	width: 65%;
+	background: #6ba3e4;
+	color: #fff;
+}
+
+.ltext {
+	width: 65%;
+	background: #dd69ba;
+	color: #fff;
+}
+/* width */
+*::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+  background: #2cf41e;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+  background: #121111;
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+  background: #32a7c8;
+}
+
+textarea {
+	resize: none;
+}
+
+/*message_status*/
+
+
+
+
+.button1 {
+	display: inline-block;
+	padding: 10px 20px;
+	font-size: 16px;
+	color: #fff;
+	background-color: #ec8b31;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	transition: background-color 0.3s ease;
+}
+
+.button1:hover {
+	background-color: #ecb96d;
+	color: #fff;
+}
+
+
+
+
+.button2 {
+	display: inline-block;
+	padding: 10px 20px;
+	font-size: 16px;
+	color: #fff;
+	background-color: #de1f42;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	transition: background-color 0.3s ease;
+}
+
+.button2:hover {
+	background-color: #e16f6f;
+	color: #fff;
+}
+
